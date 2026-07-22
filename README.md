@@ -39,7 +39,7 @@ To get this project up and running on your local machine, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Pmman-sudo/paul-web-project.git
+    git clone https://github.com/Pmman-sudo/Paul-web-project.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -54,7 +54,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-enter your name - [Your Email](mailto:enter your email address)
+enter your Iyen Paul - [Your Email](mailto:cybergit1@gmail.com)
 
 <br>
 
