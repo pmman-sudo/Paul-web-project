@@ -54,7 +54,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-enter your Iyen Paul - [Your Email](mailto:cybergit1@gmail.com)
+enter your Iyen Paul - [Your Email](mailto: cybergit1@gmail.com)
 
 <br>
 
