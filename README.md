@@ -2,6 +2,10 @@
 
 Welcome to this project combining Java web app development and AWS CI/CD tools!
 
+I am doing this project to learn more about CI/CD and get hands on experience in automating the flow from developing code to deployment of a fully functional webapp.
+
+This fits into my career goals because i want to become a DevOps engineer 
+
 <br>
 
 ## Table of Contents
@@ -39,7 +43,7 @@ To get this project up and running on your local machine, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Pmman-sudo/Paul-web-project.git
+    git clone https://github.com/pmman-sudo/Paul-web-project
     ```
 2. Navigate to the project directory:
     ```bash
