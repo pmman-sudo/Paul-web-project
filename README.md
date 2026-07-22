@@ -4,7 +4,7 @@ Welcome to this project combining Java web app development and AWS CI/CD tools!
 
 I am doing this project to learn more about CI/CD and get hands on experience in automating the flow from developing code to deployment of a fully functional webapp.
 
-This fits into my career goals because i want to become a DevOps engineer 
+This fits into my career goals because i want to become a DevOps engineer.
 
 <br>
 
