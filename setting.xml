@@ -1,0 +1,35 @@
+<setting>
+
+<servers>
+  <server>
+    <id>paulweb-paul-webapp-cicd</id>
+    <username>aws</username>
+    <password>${env.CODEARTIFACT_AUTH_TOKEN}</password>
+  </server>
+</servers>
+
+<profiles>
+  <profile>
+    <id>paulweb-paul-webapp-cicd</id>
+    <activation>
+      <activeByDefault>true</activeByDefault>
+    </activation>
+    <repositories>
+      <repository>
+        <id>paulweb-paul-webapp-cicd</id>
+        <url>https://paulweb-122015480137.d.codeartifact.eu-north-1.amazonaws.com/maven/paul-webapp-cicd/</url>
+      </repository>
+    </repositories>
+  </profile>
+</profiles>
+
+<mirrors>
+  <mirror>
+    <id>paulweb-paul-webapp-cicd</id>
+    <name>paulweb-paul-webapp-cicd</name>
+    <url>https://paulweb-122015480137.d.codeartifact.eu-north-1.amazonaws.com/maven/paul-webapp-cicd/</url>
+    <mirrorOf>*</mirrorOf>
+  </mirror>
+</mirrors>
+
+</setting>
